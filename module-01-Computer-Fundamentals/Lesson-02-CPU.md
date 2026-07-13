@@ -20,3 +20,11 @@ Is malware consuming resources?
 
 ## Why this matters?
 This matters because when troubleshooting, you know where the work is actually happening. Storage stores, RAM holds active data, but the CPU performs the work. This is important when diagnosing performance problems. 
+
+## Interview Question: 
+The CPU usage is 100%!
+
+My answer: First, I'd open Task Manager or Activity Monitor to identify which process is consuming CPU resources.
+Then I'd determine whether it's normal behavior or abnormal, such as malware or a runaway application. 
+I'd also monitor the CPU temperature to check for overheating and thermal throttling. 
+Finally, I would verify whether the issue is caused by software, background processes, or hardware limitations before considering replacing any components. 
